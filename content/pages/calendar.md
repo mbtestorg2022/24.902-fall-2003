@@ -4,28 +4,476 @@ title: Calendar
 uid: 6d17734b-a8cc-5356-4498-f21967e0ff81
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | _From Words to Phrases  {{< br >}}The Big Picture: Three Examples_ {{< br >}}{{< br >}} The Cinque Hierarchy {{< br >}}{{< br >}} Greenberg Universals {{< br >}}{{< br >}} Parameters (**wh**\-movement) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-| 2 | _Constituent Structure and Tests for Constituent Structure_ {{< br >}}{{< br >}} Sentence Fragments, Movement, Ellipsis, Anaphora as Tests for Constituency {{< br >}}{{< br >}} X-bar Theory: Heads {{< br >}}{{< br >}} θ-roles {{< br >}}{{< br >}} Complements and Modifiers {{< br >}}{{< br >}} Specifiers {{< br >}}{{< br >}}  | &nbsp; |
-| 3 | _The 'Sisterhood Condition on Selection', and Some Consequences_ {{< br >}}{{< br >}} Implications for Acquisition {{< br >}}{{< br >}} Modification of the Sisterhood Condition gives the Notion "Head" {{< br >}}{{< br >}} CP and IP {{< br >}}{{< br >}} Apparent Deviations from the Sisterhood Condition due to **Movement.** "Scrambling" in Japanese {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment #1 Due {{< br >}}{{< br >}}  |
-| 4 | _The Architecture of the Grammar_ {{< br >}}{{< br >}} The Rule **Move**: Scrambling in Japanese {{< br >}}{{< br >}} What's Universal? The **UTAH** Condition on Thematic Role Assignment {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment #2 Due {{< br >}}{{< br >}}  |
-| 5 | _Head Movement_ {{< br >}}{{< br >}} Apparent Deviations from the Sisterhood Condition in **Verb-second languages** (German, Dutch, Swedish, Vata...) {{< br >}}{{< br >}} Verb Movement to I in French {{< br >}}{{< br >}} VSO Languages (Irish, Welsh...) and the VP-internal Subject  {{< br >}}Hypothesis {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment #3 Due {{< br >}}{{< br >}}  |
-| 6 | The English Verb System |  {{< br >}}{{< br >}} Assignment #4 Due {{< br >}}{{< br >}}  |
-| 7 | _Case Theory_ {{< br >}}{{< br >}} Morphological Case Systems {{< br >}}{{< br >}} Case Theory and the Distribution of Complements {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment #5 Due {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} DP vs. Non-DP; V&P vs. N&A {{< br >}}{{< br >}} English as a Case Language! {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | _A-Movement_ {{< br >}}{{< br >}} Passive Sentences and Raising to Subject {{< br >}}{{< br >}} Passive in the Clause and in NP {{< br >}}{{< br >}} Long-distance Passive vs. Control (PRO) {{< br >}}{{< br >}} Subject Control vs. Object Control {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-| &nbsp; |  {{< br >}}{{< br >}} Assignment #6 Due (Two days after Lec #9) {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} _Unaccusativity_ {{< br >}}{{< br >}} The 1-Advancement Exclusiveness Law  {{< br >}}**Ne**\-cliticization in Italian and Other Tests for Unaccusativity {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-| 11 | How Well Can We Predict Unaccusativity from Lexical Semantics? |  {{< br >}}{{< br >}} Assignment #7 Due {{< br >}}{{< br >}}  |
-| 12 | _Coreference and Constituent Structure_ {{< br >}}{{< br >}} Principle A, Principle B, Principle C {{< br >}}{{< br >}} Coreference, Binding and Disjoint Reference {{< br >}}{{< br >}} Governing Category {{< br >}}{{< br >}} Long-distance Reflexives in Dutch and Chinese {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-| 13 | Binding vs. Coreference {{< br >}}{{< br >}} Binding and Coreference in Language Acquisition and Language Disorders {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-| 14 | Is it Real? | Assignment #9 Due |
-| 15 | _A-Bar Movement_ {{< br >}}{{< br >}} **Wh**\-movement as Movement to Spec, CP {{< br >}}{{< br >}} I-to-C Movement and **Wh**\-movement in Questions and Relative Clauses. {{< br >}}{{< br >}}  | &nbsp; |
-| 16 | **Wh**\-phrases {{< br >}}{{< br >}} Doubly-Filled Comp filter {{< br >}}{{< br >}} Relative Clauses {{< br >}}{{< br >}} The Model of Grammar: "Superiority Effects" and "Tucking In". {{< br >}}{{< br >}}  | Assignment #10 Due |
-| 17 | Island Phenomena; the "Subjacency Condition" |  {{< br >}}{{< br >}}  |
-| 18 |  {{< br >}}{{< br >}} _Incorporation_ {{< br >}}{{< br >}} The Condition on Extraction Domains (CED) Incorporation (Mohawk, Chichewa, Southern Tiwa) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment #11 Due {{< br >}}{{< br >}}  |
-| 19 |  {{< br >}}{{< br >}} _Covert Movement and "Logical Form"_ {{< br >}}{{< br >}} WH-movement in Japanese/Chinese-type Languages. Adjuncts vs. Arguments. Covert Movement {{< br >}}{{< br >}}  | &nbsp; |
-| &nbsp; |  {{< br >}}{{< br >}} Squib Due (Two days after Lec # 19) {{< br >}}{{< br >}}  |
-| 20 |  {{< br >}}{{< br >}} _Ellipsis and Quantifier Raising_ {{< br >}}{{< br >}} Quantifier Raising, VP-ellipsis, Antecedent-Contained Deletion {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-| 21 |  {{< br >}}{{< br >}} _The Architecture of the Grammar_ {{< br >}}{{< br >}} The "Minimalist Program" {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+_From Words to Phrases  
+The Big Picture: Three Examples_
+
+The Cinque Hierarchy
+
+Greenberg Universals
+
+Parameters (**wh**\-movement)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Constituent Structure and Tests for Constituent Structure_
+
+Sentence Fragments, Movement, Ellipsis, Anaphora as Tests for Constituency
+
+X-bar Theory: Heads
+
+θ-roles
+
+Complements and Modifiers
+
+Specifiers
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_The 'Sisterhood Condition on Selection', and Some Consequences_
+
+Implications for Acquisition
+
+Modification of the Sisterhood Condition gives the Notion "Head"
+
+CP and IP
+
+Apparent Deviations from the Sisterhood Condition due to **Movement.** "Scrambling" in Japanese
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment #1 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_The Architecture of the Grammar_
+
+The Rule **Move**: Scrambling in Japanese
+
+What's Universal? The **UTAH** Condition on Thematic Role Assignment
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment #2 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Head Movement_
+
+Apparent Deviations from the Sisterhood Condition in **Verb-second languages** (German, Dutch, Swedish, Vata...)
+
+Verb Movement to I in French
+
+VSO Languages (Irish, Welsh...) and the VP-internal Subject  
+Hypothesis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment #3 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The English Verb System
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment #4 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Case Theory_
+
+Morphological Case Systems
+
+Case Theory and the Distribution of Complements
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment #5 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+DP vs. Non-DP; V&P vs. N&A
+
+English as a Case Language!
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_A-Movement_
+
+Passive Sentences and Raising to Subject
+
+Passive in the Clause and in NP
+
+Long-distance Passive vs. Control (PRO)
+
+Subject Control vs. Object Control
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment #6 Due (Two days after Lec #9)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Unaccusativity_
+
+The 1-Advancement Exclusiveness Law  
+**Ne**\-cliticization in Italian and Other Tests for Unaccusativity
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+How Well Can We Predict Unaccusativity from Lexical Semantics?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment #7 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Coreference and Constituent Structure_
+
+Principle A, Principle B, Principle C
+
+Coreference, Binding and Disjoint Reference
+
+Governing Category
+
+Long-distance Reflexives in Dutch and Chinese
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Binding vs. Coreference
+
+Binding and Coreference in Language Acquisition and Language Disorders
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Is it Real?
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #9 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_A-Bar Movement_
+
+**Wh**\-movement as Movement to Spec, CP
+
+I-to-C Movement and **Wh**\-movement in Questions and Relative Clauses.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+**Wh**\-phrases
+
+Doubly-Filled Comp filter
+
+Relative Clauses
+
+The Model of Grammar: "Superiority Effects" and "Tucking In".
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #10 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Island Phenomena; the "Subjacency Condition"
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Incorporation_
+
+The Condition on Extraction Domains (CED) Incorporation (Mohawk, Chichewa, Southern Tiwa)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment #11 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Covert Movement and "Logical Form"_
+
+WH-movement in Japanese/Chinese-type Languages. Adjuncts vs. Arguments. Covert Movement
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Squib Due (Two days after Lec # 19)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Ellipsis and Quantifier Raising_
+
+Quantifier Raising, VP-ellipsis, Antecedent-Contained Deletion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Architecture of the Grammar_
+
+The "Minimalist Program"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
