@@ -4,6 +4,7 @@ description: Lecture handout on syntax, dysfunctional analogies, and language di
   against a backdrop of language similarities.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/290d8ddf9e516dca521e638f3231e36b_class_1_handout.pdf
 file_type: application/pdf
+parent_uid: 9281e834-108a-6a89-63d6-c04f6d8db468
 resourcetype: Document
 title: 'Syntax: day 1'
 uid: 290d8ddf-9e51-6dca-521e-638f3231e36b
